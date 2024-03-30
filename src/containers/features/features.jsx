@@ -23,7 +23,7 @@ const featuresData = [
 
 const Features = () => (
   
-    <div className='gp3__features section__padding' id='features'>
+    <div className='gpt3__features section__padding' id='features'>
       <div className='gpt3__features-heading'>
         <h1 className='gradient__text'>Welcome to the ultimate course, where you will learn how to take Figma designs, turn them into four modern, responsive, beautifully-designed applications, and get hired a</h1>
         <p>Use the code JAVASCRIPTMASTERY to save up to 91% on all yearly hosting plans.</p>      
