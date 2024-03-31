@@ -4,7 +4,7 @@ import Feature from '../../components/feature/feature'
 
 const WhatGPT3 = () => {
   return (
-    <div className='gpt3__whatgpt3 section__margin' id="wht3">
+    <div className='gpt3__whatgpt3 section__margin' id="wgpt3">
       <div className='gpt3__whatgpt3-feature'>
          <Feature title="What is GPT3" text="Welcome to the ultimate course, where you will learn how to take Figma designs, turn them into four modern, responsive, beautifully-designed applications, and get hired as a front-end developer. All the way from design, over development, to deployment on your own web development portfolio!"/>
          </div>
