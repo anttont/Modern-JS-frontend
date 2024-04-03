@@ -25,8 +25,8 @@ const Features = () => (
   
     <div className='gpt3__features section__padding' id='features'>
       <div className='gpt3__features-heading'>
-        <h1 className='gradient__text'>Welcome to the ultimate course, where you will learn how to take Figma designs, turn them into four modern, responsive, beautifully-designed applications, and get hired a</h1>
-        <p>Use the code JAVASCRIPTMASTERY to save up to 91% on all yearly hosting plans.</p>      
+        <h1 className='gradient__text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h1>
+        <p>Elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>      
       </div>
       <div className='gpt3__features-container'>
         {featuresData.map((item, index) => (
